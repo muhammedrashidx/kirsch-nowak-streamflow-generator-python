@@ -1,6 +1,9 @@
+
 # Kirsch–Nowak Streamflow Generator — Python
 
 A Python implementation of the stationary Kirsch–Nowak synthetic streamflow generator originally developed in MATLAB by **Matteo Giuliani, Jon Herman, and Julianne Quinn**.
+
+> **AI-assisted development:** The initial MATLAB-to-Python code conversion was performed with assistance from **Google Gemini 3.1 Pro**. The resulting Python implementation was subsequently reviewed, debugged, modified, and validated against the original MATLAB implementation, including reproducibility of the random-number sequence and final generated streamflows.
 
 Original repository:
 https://github.com/julianneq/Kirsch-Nowak_Streamflow_Generator
